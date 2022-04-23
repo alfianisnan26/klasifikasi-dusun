@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alfianisnan26/klasifikasi-dusun/HEAD?labpath=train.ipynb)
-[![Run on Repl.it](https://repl.it/github/alfianisnan26/klasifikasi-dusun)](https://repl.it/github/alfianisnan26/klasifikasi-dusun)
+[![Run on Repl.it](https://repl.it/badge/github/alfianisnan26/klasifikasi-dusun)](https://repl.it/github/alfianisnan26/klasifikasi-dusun)
 ## Klasifikasi Jenis Wisata Desa menggunakan Machine Learning
 - Kategori  : Supervised machine learning
 - Algoritma : Support vector machine
