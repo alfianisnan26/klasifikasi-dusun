@@ -22,7 +22,7 @@ source ./venv/bin/activate
 ```bash
 python -m pip -r requirements.txt
 ```
-### Jika memerlukan notebook
+### Jika memerlukan noteboo
 ```bash
 # Install
 python -m pip install notebook
@@ -30,5 +30,9 @@ python -m pip install notebook
 # Open
 python -m notebook
 ```
+
 ## Referensi
-https://data-flair.training/blogs/iris-flower-classification/
+- Tutorial : https://data-flair.training/blogs/iris-flower-classification/
+- KNN : https://www.upgrad.com/blog/knn-classifier-for-machine-learning/
+- SVM : https://www.javatpoint.com/machine-learning-support-vector-machine-algorithm
+- Scikit SVC : https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
