@@ -20,7 +20,7 @@ source ./venv/bin/activate
 ```
 ### Install dependensi
 ```bash
-python -m pip -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 ### Jika memerlukan noteboo
 ```bash
